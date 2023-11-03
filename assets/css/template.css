@@ -60,7 +60,7 @@ nav a:hover {
 #banner {
   display: flex;
   justify-content: center;
-  background-image: url("/assets/images/casal.jpeg");
+  background-image: url("../images/casal.jpeg");
   background-position: center;
   background-size: cover;
   height: 670px;
